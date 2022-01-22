@@ -1,2 +1,11 @@
-# dio-desafio-guitrub-primeiro-reposit-rio-
-Desafio de Projeto sobre Guit/Guitrub
+# Desafio de Projeto sobre Guit/Guitrub da Dio.
+
+Repositório criado para o desafio de Projeto.
+
+## Links Úteis
+[Sintax Basica Markdown](https://www.markdownguide.org/getting-started/)
+
+
+
+
+
